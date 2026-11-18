@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Sunny Jaiswal",
+    "bio": "I am deeply interested in finance, including the stock market and commodities.I still remember starting my journey with ₹6,000 saved from my +2 college fees",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JAVA",
+      "PYTHON"
+    ],
+    "link": "https://github.com/bmsjs92-sys"
+  },
+  {
+    "name": "Sahil Jaiswal",
+    "bio": "I am deeply interested in finance, including the stock market and commodities. I still remember starting my journey with ₹6,000 saved from my +2 college fees",
+    "skills": [
+      "Fundamental analysis",
+      "Risk management",
+      "More familiar with Trend",
+      "Financial statement anlaysis"
+    ],
+    "link": "https://github.com/bmsjs92-sys"
+  }
+]
